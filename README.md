@@ -1,2 +1,2 @@
 # myangular
-angularjs
+angular js for request and response
